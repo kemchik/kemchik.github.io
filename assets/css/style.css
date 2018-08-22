@@ -142,6 +142,11 @@
     #busNumber {
         font-size: 1.7em;
     }
+
+    .form {
+        padding: 5px;
+        padding-right: 24px;
+    }
 }
 
 #pointing>div{
